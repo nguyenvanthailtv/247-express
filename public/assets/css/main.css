@@ -1134,7 +1134,7 @@ input[type=button] {
 }
 .header-wrapper .header__wrapper .header__top__svg {
   position: absolute;
-  right: 100%;
+  right: 99.9%;
   display: block;
 }
 .header-wrapper .header__wrapper .header__top__item {
