@@ -30,8 +30,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-file-circle-check"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -44,8 +44,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-truck"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -58,8 +58,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-truck-fast"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -72,8 +72,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#" >
+                            <i class="fa-solid fa-handshake"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -86,8 +86,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-hourglass-half"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -100,8 +100,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-box-open"></i>
                         </a>
                     </div>
                     <div class="service__item__content">
@@ -114,8 +114,8 @@
             <div class="col-3-xxl col-3-xl col-3-lg col-4-md col-4-sm col-6-xs">
                 <div class="service__item">
                     <div class="service__item__img">
-                        <a href="#" class="icon-rotate">
-                            <i class="fa-solid fa-plane"></i>
+                        <a href="#">
+                            <i class="fa-solid fa-circle-dollar-to-slot"></i>
                         </a>
                     </div>
                     <div class="service__item__content">

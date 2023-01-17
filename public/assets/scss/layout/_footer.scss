@@ -110,3 +110,42 @@
         background-color: rgba($white-color,0.4);
     }
 }
+.copy-right{
+    background-color: #333;
+    color: $white-color;
+    font-weight: 600;
+    padding: 20px 0;
+
+    @include md{
+        display: none;
+    }
+
+
+    @include sm{
+        display: none;
+    }
+
+    @include xs{
+        display: none;
+    }
+}
+
+.support{
+    width: 300px;
+    max-width: 300px;
+    padding: 4px 12px;
+    background-color: $primary-color-3;
+    position: fixed;
+    bottom: 0;
+    right: 10%;
+    border-radius: 10px 10px 0 0;
+    color: $white-color;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+
+    &:hover{
+        opacity: 0.9;
+    }
+}

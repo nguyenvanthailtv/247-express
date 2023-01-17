@@ -172,3 +172,18 @@
     </div>
 </footer>
 
+<div class="copy-right text-md">
+    <div class="container">
+        <div class="row">
+            <div class="col-12-xxl col-12-xl col-12-lg">
+            <span>&copy; 2015 CÔNG TY CỔ PHẦN HAI BỐN BẢY. All Rights Reserved.</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="support text-md">
+    <span>Bạn cần hỗ trợ gì từ 247?</span>
+    <i class="fa-solid fa-chevron-up"></i>
+</div>
+
